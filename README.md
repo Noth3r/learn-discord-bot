@@ -20,6 +20,9 @@ node index
 !n [video url]
 ```
 
+## Bugs and TODO
+- Can't get video URL from Facebook when deployed to Heroku or Replit 
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
