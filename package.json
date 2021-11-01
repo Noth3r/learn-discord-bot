@@ -1,20 +1,22 @@
 {
   "name": "discord-bot",
   "version": "1.0.0",
+    "engines": {
+    "node": "16.x"
+  },
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.10",
     "discord.js": "^13.3.0",
     "dotenv": "^10.0.0",
-    "formdata-node": "^4.3.1",
     "node-fetch": "^2.6.6"
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
   },
   "keywords": [],
   "author": "Ihsan Aryan",
