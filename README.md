@@ -16,7 +16,9 @@ node index
 
 ## Discord Command
 
+```
 !n [video url]
+```
 
 ## Contributing
 
